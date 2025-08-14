@@ -16,5 +16,15 @@ It allows users to browse listings, view details, and book stays, all through a 
 
 ---
 
+## Screenshots
+
+### Adding List Page
+![Adding List Page](./screenshots/Adding-List-Page.png)
+
+### Detailed Page
+![Detailed Page](./screenshots/Detailed-Page.png)
+
+### Listing Page
+![Listing Page](./screenshots/Listing-Page.png)
 
 
